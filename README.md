@@ -8,4 +8,4 @@ ls
 ./activate
 cd ..
 cd ..
-locoalhost:8503
+localhost:8503
