@@ -8,3 +8,4 @@ ls
 ./activate
 cd ..
 cd ..
+loloalhost:8503
